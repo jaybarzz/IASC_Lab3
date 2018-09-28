@@ -1,0 +1,9 @@
+h1 {font-weight: bold;}
+#firstHeader{
+	color:red;
+}
+
+.greenText{
+	color:green;
+  font-style: italic;
+}

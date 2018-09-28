@@ -1,0 +1,11 @@
+body{background-color:red}
+
+#pizzaDebate{
+  font-size:30px;
+  list-style-position: inside;
+  list-style-type: square;
+}
+.listStuff{
+  color:green;
+  font-style: italic
+}
